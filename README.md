@@ -1,4 +1,5 @@
 ### Hi there! My name is Sean 👋
 
-- 📫 How to reach me: seanchun3@gmail.com
-- ⚡ Fun fact: Born in Bangkok, Raised in LA, High School in Tokyo
+- Founder, CEO @ OpenRush
+- We are building the marketing data layer for AI agents
+- Get started today with MCP at wwww.openrush.com
